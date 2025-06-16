@@ -1,6 +1,6 @@
 # pfSense Lab Project
 
-This repository contains a pfSense-based virtual lab originally assigned by M. Bounama, my former networking instructor. I expanded the project with a complete virtual network setup and documentation.
+This repository contains a networking lab project originally assigned by M. Bounama, my former teacher. I expanded on the original instructions by developing a complete lab environment, documenting the process in Notion, and packaging everything on a bootable SSD with a run-script.
 
 ## What's Included
 
@@ -8,6 +8,10 @@ This repository contains a pfSense-based virtual lab originally assigned by M. B
 - 🖥️ Vulnerable host (Metasploitable) for penetration testing
 - 📄 Full project documentation on Notion *(request access)*
 - 💾 Pre-installed lab environment on an SSD with a run script
+
+## What is covered
+
+Network segmentation - DHCP configs - Access control - IDS/IPS - Network analysis - Security testing - Troubleshooting - and more
 
 ## Access and Demo
 
