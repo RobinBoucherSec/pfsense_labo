@@ -17,7 +17,7 @@ Network segmentation - DHCP configs - Access control - IDS/IPS - Network analysi
 
 To view the Notion documentation or see a live demonstration (running locally from my SSD), feel free to contact me.
 
-[Notion Link](https://www.notion.so/5-R-gles-de-filtrage-dans-pfsense-20fd8ff66ad280698a55ff29ccfaefc6?source=copy_link)
+[Notion Link](https://www.notion.so/pfsense_labo-20fd8ff66ad280e5a84ec60647b61c65?source=copy_link)
 
 ## 📬 Contact
 
