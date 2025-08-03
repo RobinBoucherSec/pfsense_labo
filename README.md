@@ -19,6 +19,15 @@ To view the Notion documentation or see a live demonstration (running locally fr
 
 [Notion Link](https://www.notion.so/pfsense_labo-20fd8ff66ad280e5a84ec60647b61c65?source=copy_link)
 
+## Skip the PfSense config using the [Download pfSense Backup Configuration](backup_config_pfsense.xml)
+### How to Use This File in pfSense (then config the reste)
+- Log in to your target pfSense web interface.
+- Go to Diagnostics > Backup & Restore.
+- Under Restore Configuration, click Browse and select this XML file.
+- Check options if needed (e.g., Restore).
+- Click Restore.
+- After restore, reboot the firewall or restart services as needed.
+
 ## 📬 Contact
 
 - 🌐 [Website](https://robinboucher.tech/)
