@@ -17,7 +17,7 @@ Network segmentation - DHCP configs - Access control - IDS/IPS - Network analysi
 
 To view the Notion documentation or see a live demonstration (running locally from my SSD), feel free to contact me.
 
-[Notion Link](https://www.notion.so/pfsense_labo-20fd8ff66ad280e5a84ec60647b61c65?source=copy_link)
+# [Notion Link](https://www.notion.so/pfsense_labo-20fd8ff66ad280e5a84ec60647b61c65?source=copy_link)
 
 ## Skip the PfSense config using the [Download pfSense Backup Configuration](backup_config_pfsense.xml.xml)
 ### How to Use This File in pfSense (then config the reste)
